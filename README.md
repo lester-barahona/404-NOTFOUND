@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-notfound-les.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="#">
       Solution
     </a>
     <span> | </span>
@@ -27,9 +27,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screencapture-127-0-0-1-5500-index-html-1604728686803](https://user-images.githubusercontent.com/61637107/98433369-036e4280-208c-11eb-834f-65bfc96184aa.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
 
 
 
@@ -45,7 +45,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Contact
-- Instagram [@lester-barahona](https://{instagram.com/lester_b_a/})
-- GitHub [lester_b_a](https://{github.com/lester-barahona})
+- Instagram [@lester_b_a](https://{instagram.com/lester_b_a/})
+- GitHub [@lester-barahona](https://{github.com/lester-barahona})
 
 
