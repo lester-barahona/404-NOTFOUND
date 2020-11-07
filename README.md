@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/lester-barahona/404-NOTFOUND}">
+    <a href="#">
       Solution
     </a>
     <span> | </span>
